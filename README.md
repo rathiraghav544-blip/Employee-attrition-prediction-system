@@ -53,3 +53,5 @@ streamlit run app.py
 ## Author
 
 Raghav
+
+<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/2f7156e0-03c3-49a5-a456-283d8307dc4d" />
